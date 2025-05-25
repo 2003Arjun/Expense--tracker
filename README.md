@@ -3,9 +3,6 @@ This project is designed to help users track their expenses easily and effective
 screenshot :
 ![expenses tracker ](https://github.com/user-attachments/assets/2ef2ec46-2bf6-42dd-a0fd-afa1492816cd)
 
-
-[Deployed link](https://expensesstracker.streamlit.app/)
-
 ## How it Works ?
 The Expense Tracker application is built using Streamlit, a powerful and easy-to-use Python framework for building web applications. Here's a step-by-step explanation of how the project works:
 
