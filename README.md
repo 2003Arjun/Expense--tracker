@@ -1,18 +1,8 @@
-
-
-![Streamlit notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/117498997/e8052bb6-ad89-48c3-b6e9-124f94c1cd01)
-
-
-
-
 # Expense Tracker
 This project is designed to help users track their expenses easily and effectively. It allows users to add, categorize, and visualize their expenses over time. With an intuitive interface built using Streamlit, users can quickly input their expenses and see summaries and visualizations of their spending patterns. This project is awesome and helps in managing personal finances efficiently.
-## Team members
-1. [Aksa Rose](https://github.com/AksaRose)
-2. [Adithya Ramesh](https://github.com/Adithya6ramesh)
-## Link to product walkthrough
-![pic2](https://github.com/AksaRose/Expensetracker/assets/117498997/31ad9006-24b4-4f11-982e-a788ef0326b7)
-![pic1](https://github.com/AksaRose/Expensetracker/assets/117498997/fb689505-867e-49fb-934a-4887d95c5598)
+screenshot :
+![expenses tracker ](https://github.com/user-attachments/assets/2ef2ec46-2bf6-42dd-a0fd-afa1492816cd)
+
 
 [Deployed link](https://expensesstracker.streamlit.app/)
 
