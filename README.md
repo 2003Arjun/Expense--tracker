@@ -3,6 +3,14 @@ This project is designed to help users track their expenses easily and effective
 screenshot :
 ![expenses tracker ](https://github.com/user-attachments/assets/2ef2ec46-2bf6-42dd-a0fd-afa1492816cd)
 
+Tech Stack: Streamlit, Pandas
+
+Features: Input expenses, visualize data, and receive immediate feedback.
+
+Why Use It: Simple and intuitive interface for quick expense tracking.
+
+Enhancement Ideas: Implement data persistence, add advanced filtering options, or integrate with financial APIs.
+
 ## How it Works ?
 The Expense Tracker application is built using Streamlit, a powerful and easy-to-use Python framework for building web applications. Here's a step-by-step explanation of how the project works:
 
@@ -38,3 +46,5 @@ The Expense Tracker application is built using Streamlit, a powerful and easy-to
     - Open your web browser and navigate to `http://localhost:8501`.
 3. **Use the Application**:
     - Input your expenses and visualize the data.
+  
+   
